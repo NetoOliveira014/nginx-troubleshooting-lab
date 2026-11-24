@@ -1,0 +1,4 @@
+# Scripts e configs sempre com fim de linha Unix, mesmo clonados no Windows
+*.sh        text eol=lf
+*.conf      text eol=lf
+Dockerfile  text eol=lf
